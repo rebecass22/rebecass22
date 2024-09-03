@@ -17,6 +17,6 @@ I'm Rebeca, a 24 year old from the south of Spain, currently living in the UK fo
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frebecass22&labelColor=%23697689&countColor=%23697689)
 
-## Where to find me
+## Where to find me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebecass2207@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-servais-563148186/)
