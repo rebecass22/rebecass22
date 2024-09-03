@@ -13,7 +13,7 @@ I'm Rebeca, a 24 year old from the south of Spain, actually living in the UK for
 - 💬 Ask me about **HTML**, **CSS** or **JavaScript**.
 - 🅱️ Currently learning **Bootstrap** 
 - 📫 How to reach me **rebecass2207@gmail.com**
-- 😸 Learning **The Complete 2024 Web Development Bootcamp by Angela Yu**
+- 😸 Learning **The Complete 2024 Web Development Bootcamp by Angela Yu** in Udemy, and **freeCodeCamp**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frebecass22&countColor=%23263759)
 
