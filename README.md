@@ -7,9 +7,9 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm Rebeca! A 24 year old from the south of Spain, actually living in the UK for the past +5 years. I am on my way to becoming a Front-end developer.
+I'm Rebeca! A 24 year old from the south of Spain, actually living in the UK for the past +5 years. I am on my way to becoming a Front-end developer!
 
-- 💬 Ask me about **HTML** or **JavaScript**.
+- 💬 Ask me about **HTML**, **CSS** or **JavaScript**.
 - 🅱️ Currently learning **Bootstrap** 
 - 📫 How to reach me **rebecass2207@gmail.com**
 
