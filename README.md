@@ -17,9 +17,7 @@ I'm Rebeca! A 24 year old from the south of Spain, actually living in the UK for
 - 🅱️ Currently learning **Bootstrap** 
 - 📫 How to reach me **rebecass2207@gmail.com**
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
-
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frebecass22&countColor=%23263759)
 
 #
 ## Where to find me
