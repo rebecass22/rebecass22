@@ -2,7 +2,7 @@
 
 <!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ### Hi there! 👋
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Hi there! 👋
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
