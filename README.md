@@ -15,7 +15,7 @@ I'm Rebeca, a 24 year old from the south of Spain, currently living in the UK fo
 - 📫 How to reach me **rebecass2207@gmail.com**
 - 😸 Learning **The Complete 2024 Web Development Bootcamp by Angela Yu** in Udemy, and **freeCodeCamp.**
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Frebecass22&labelColor=%232ccce4&countColor=%232ccce4)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frebecass22&labelColor=%232ccce4&countColor=%232ccce4)
 
 ## Where to find me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebecass2207@gmail.com)
